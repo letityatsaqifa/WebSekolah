@@ -7,7 +7,7 @@ WebSekolah adalah aplikasi berbasis web untuk manajemen data siswa, guru, jurusa
 ## 🔐 Login
 > Halaman login untuk semua pengguna sistem.
 <p align="center">
-  <img src="WebSekolah/layout/login.png" width="400"/>
+  <img src="layout/login.png" width="400"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@ WebSekolah adalah aplikasi berbasis web untuk manajemen data siswa, guru, jurusa
 ## 🗃️ Rancangan Database
 > Struktur tabel relasional yang digunakan dalam sistem.
 <p align="center">
-  <img src="WebSekolah/layout/database.png" width="400"/>
+  <img src="layout/database.png" width="400"/>
 </p>
 
 ---
@@ -24,28 +24,28 @@ WebSekolah adalah aplikasi berbasis web untuk manajemen data siswa, guru, jurusa
 
 ### 🧭 Dashboard
 <p align="center">
-  <img src="WebSekolah/layout/dashboardAdmin.png" width="400"/>
+  <img src="layout/dashboardAdmin.png" width="400"/>
 </p>
 
 ### 📁 Data
 <p align="center">
-  <img src="WebSekolah/layout/dataAgamaAdmin.png" width="400"/>
-  <img src="WebSekolah/layout/dataJurusanAdmin.png" width="400"/>
-  <img src="WebSekolah/layout/dataSiswaAdmin.png" width="400"/>
-  <img src="WebSekolah/layout/dataUserAdmin.png" width="400"/>
+  <img src="layout/dataAgamaAdmin.png" width="400"/>
+  <img src="layout/dataJurusanAdmin.png" width="400"/>
+  <img src="layout/dataSiswaAdmin.png" width="400"/>
+  <img src="layout/dataUserAdmin.png" width="400"/>
 </p>
 
 ### ➕ Tambah Data
 <p align="center">
-  <img src="WebSekolah/layout/tambahAgamaAdmin.png" width="400"/>
-  <img src="WebSekolah/layout/tambahJurusanAdmin.png" width="400"/>
-  <img src="WebSekolah/layout/tambahSiswaAdmin.png" width="400"/>
-  <img src="WebSekolah/layout/tambahUserAdmin.png" width="400"/>
+  <img src="layout/tambahAgamaAdmin.png" width="400"/>
+  <img src="layout/tambahJurusanAdmin.png" width="400"/>
+  <img src="layout/tambahSiswaAdmin.png" width="400"/>
+  <img src="layout/tambahUserAdmin.png" width="400"/>
 </p>
 
 ### 👤 Profil Admin
 <p align="center">
-  <img src="WebSekolah/layout/profileAdmin.png" width="400"/>
+  <img src="layout/profileAdmin.png" width="400"/>
 </p>
 
 ---
@@ -54,17 +54,17 @@ WebSekolah adalah aplikasi berbasis web untuk manajemen data siswa, guru, jurusa
 
 ### 🧭 Dashboard Guru
 <p align="center">
-  <img src="WebSekolah/layout/dashboardGuru.png" width="400"/>
+  <img src="layout/dashboardGuru.png" width="400"/>
 </p>
 
 ### 📄 Data
 <p align="center">
-  <img src="WebSekolah/layout/dataGuru.png" width="400"/>
+  <img src="layout/dataGuru.png" width="400"/>
 </p>
 
 ### 👤 Profil Guru
 <p align="center">
-  <img src="WebSekolah/layout/profileGuru.png" width="400"/>
+  <img src="layout/profileGuru.png" width="400"/>
 </p>
 
 ---
@@ -73,17 +73,17 @@ WebSekolah adalah aplikasi berbasis web untuk manajemen data siswa, guru, jurusa
 
 ### 🧭 Dashboard Siswa
 <p align="center">
-  <img src="WebSekolah/layout/dashboardSiswa.png" width="400"/>
+  <img src="layout/dashboardSiswa.png" width="400"/>
 </p>
 
 ### 📄 Data
 <p align="center">
-  <img src="WebSekolah/layout/dataSiswa.png" width="400"/>
+  <img src="layout/dataSiswa.png" width="400"/>
 </p>
 
 ### 👤 Profil Siswa
 <p align="center">
-  <img src="WebSekolah/layout/profileSiswa.png" width="400"/>
+  <img src="layout/profileSiswa.png" width="400"/>
 </p>
 
 ---
@@ -92,11 +92,11 @@ WebSekolah adalah aplikasi berbasis web untuk manajemen data siswa, guru, jurusa
 
 ### 📌 Konfirmasi dan Pop-up
 <p align="center">
-  <img src="WebSekolah/layout/konfirmasiHapus.png" width="400"/>
-  <img src="WebSekolah/layout/popUpHapusSukses.png" width="400"/>
-  <img src="WebSekolah/layout/popUpEdit.png" width="400"/>
-  <img src="WebSekolah/layout/popUpEditSukses.png" width="400"/>
-  <img src="WebSekolah/layout/konfirmasiLogout.png" width="400"/>
+  <img src="layout/konfirmasiHapus.png" width="400"/>
+  <img src="layout/popUpHapusSukses.png" width="400"/>
+  <img src="layout/popUpEdit.png" width="400"/>
+  <img src="layout/popUpEditSukses.png" width="400"/>
+  <img src="layout/konfirmasiLogout.png" width="400"/>
 </p>
 
 ---
